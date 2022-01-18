@@ -1,0 +1,8 @@
+olma;15000
+olma;10000
+olma;120
+olma;25000
+olma;2500
+olma;1600
+olma;25000
+olma;20000
